@@ -1,4 +1,4 @@
-![Header](https://github.com/SoumyaWilsongithub/SoumyaWilsongithub/blob/main/github-header-banner.)
+![Header](https://github.com/SoumyaWilsongithub/SoumyaWilsongithub/blob/main/github%20banner.png)
 
 <h1 align="center">Hi 👋, I'm Soumya Wilson</h1>
 <h3 align="center">A passionate Android developer from India</h3>
