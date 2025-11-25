@@ -3,48 +3,24 @@
 <h1 align="center">Hi 👋, I'm Soumya Wilson</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
-<!-- RIGHT SIDE GIF (will replace after you upload it) -->
-<img align="right" alt="coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGQ2aXF4aWw1ZHd3aHl3a2FxZ3V6Y3o2dHd4eHc3Mng1OGNjZWoyYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/200.webp">
+<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGQ2aXF4aWw1ZHd3aHl3a2FxZ3V6Y3o2dHd4eHc3Mng1OGNjZWoyYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/200.webp">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=soumyawilsongithub&label=Profile%20views&color=0e75b6&style=flat" alt="soumyawilsongithub"/>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyawilsongithub&label=Profile%20views&color=0e75b6&style=flat" alt="soumyawilsongithub" /> </p>
 
 - 📫 How to reach me **wilsonsoumya1@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/500px-LinkedIn_logo_initials.png" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/500px-LinkedIn_logo_initials.png" width="50" height="50" >
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</p>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-<!-- MOST USED LANGUAGES -->
-<p>
-  <img align="left"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=soumyawilsongithub&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff"
-       alt="soumyawilsongithub"/>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumyawilsongithub&show_icons=true&locale=en&layout=compact" alt="soumyawilsongithub" /></p>
 
-<!-- GITHUB STATS -->
-<p>
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=soumyawilsongithub&show_icons=true&locale=en&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff"
-       alt="soumyawilsongithub"/>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumyawilsongithub&show_icons=true&locale=en"alt="soumyawilsongithub" /></p>
 
-<!-- STREAK -->
-<p>
-  <img align="center"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=soumyawilsongithub&theme=dark&background=000000&ring=ffffff&fire=ffffff"
-       alt="soumyawilsongithub"/>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyawilsongithub&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" 
+" alt="soumyawilsongithub" /></p>
