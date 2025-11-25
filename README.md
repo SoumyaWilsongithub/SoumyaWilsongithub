@@ -1,9 +1,9 @@
-![Header](https://github.com/SoumyaWilsongithub/SoumyaWilsongithub/blob/main/github-header-banner.png)
+![Header](https://github.com/SoumyaWilsongithub/SoumyaWilsongithub/blob/main/github-header-banner.)
 
 <h1 align="center">Hi 👋, I'm Soumya Wilson</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
+<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGQ2aXF4aWw1ZHd3aHl3a2FxZ3V6Y3o2dHd4eHc3Mng1OGNjZWoyYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/200.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyawilsongithub&label=Profile%20views&color=0e75b6&style=flat" alt="soumyawilsongithub" /> </p>
 
